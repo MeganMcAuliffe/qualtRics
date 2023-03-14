@@ -284,7 +284,7 @@ fetch_survey <-
     # https://api.qualtrics.com/6b00592b9c013-start-response-export
     raw_payload <-
       create_raw_payload(
-        format = "csv",
+        format = "spss",
         useLabels = label,
         startDate = start_date_formatted,
         endDate = end_date_formatted,
