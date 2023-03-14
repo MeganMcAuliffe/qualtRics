@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# qualtRics
+# qualtRics_megan
 
 **Authors:** [Julia Silge](https://juliasilge.com/), [Joseph
 O’Brien](joseph.m.obrien@gmail.com), [Jasper
